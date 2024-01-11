@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8F4EA8F3-F8BC-48D7-9451-F8654438F592"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04B4783C-7F13-4763-A2EB-4673282AA745"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SWIFTUIComponent/SwiftUIComponents/LongPressGestureComp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AF13AEE-5E1D-45DE-8C0A-E41B54B8FAE4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SWIFTUIComponent/SwiftUIComponents/TabBarScrollToTop.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8AF13AEE-5E1D-45DE-8C0A-E41B54B8FAE4 - 847663397dcb2b91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Int) -&gt; () in handler.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "SWIFTUIComponent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ail088/Projects/SwiftUI-Dec-2023/SWIFTUIComponent/SWIFTUIComponent/SwiftUIComponents/TabBarScrollToTop.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "8AF13AEE-5E1D-45DE-8C0A-E41B54B8FAE4 - 847663397dcb2b91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Int) -&gt; () in handler.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "SWIFTUIComponent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ail088/Projects/SwiftUI-Dec-2023/SWIFTUIComponent/SWIFTUIComponent/SwiftUIComponents/TabBarScrollToTop.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "551AA6E2-1B0C-444E-B75E-A5033C0D59DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SWIFTUIComponent/SwiftUIComponents/TabBarScrollToTop.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,15 @@
+//{
+//  "sourceLanguage" : "en",
+//  "strings" : {},
+//  "version" : "1.0"
+//}
+
+
+
+/* English */
+"welcome_message" = "Welcome to SwiftUI!";
+"tap_button" = "Tap me!";
+
+/* Spanish */
+"welcome_message" = "¡Bienvenido a SwiftUI!";
+"tap_button" = "Tócame!";
