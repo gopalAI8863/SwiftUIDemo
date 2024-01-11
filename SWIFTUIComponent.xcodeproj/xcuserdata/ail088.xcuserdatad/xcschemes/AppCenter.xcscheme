@@ -17,7 +17,7 @@
                BlueprintIdentifier = "A3282A5B2437E609EEB85861D7ECE717"
                BuildableName = "AppCenter"
                BlueprintName = "AppCenter"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
